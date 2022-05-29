@@ -1,4 +1,4 @@
-# django_starter
+# django_starter with bootstrap -5
 
 `git clone https://github.com/jaydip-lnxct/django_starter.git`
 
